@@ -1,0 +1,1 @@
+config dosyasına api key ve api secret verilerini gir daha sonra kod içinde kendi al sat oranlarını değiştir girilen değerler örnektir. bir zararla karşılaşmanı istemem. iyi kazançlar:)
